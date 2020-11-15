@@ -1,1 +1,2 @@
-jdbc.username=111111dev
+config:
+  info: dev
